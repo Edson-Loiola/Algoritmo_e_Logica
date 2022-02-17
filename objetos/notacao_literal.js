@@ -1,0 +1,14 @@
+
+/* Arrow: Esse tema não foi abordado do Curso de Algoritmo e Logicae sim no Curso Web Moderno.
+   Mas por ser parte de fundamento fiz aqui. 
+------------------------------------------------------------------------------------------- */
+
+
+const a = 1;
+const b = 2;
+const c = 3;
+
+const obj1 = {a: a, b: b, c: c}
+const obj2 = {a, b, c}
+
+console.log(obj1, obj2)
